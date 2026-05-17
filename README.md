@@ -19,20 +19,18 @@
 
 <h2> 👨‍💻 Sobre mí </h2>
 
-<img align="right" width=310px alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I3NWlydzN0cW1rYnp2NXY3c252M2p5cDMyOG9yc2JoemkzaG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GxcptIyuOwo1CjnIl1/giphy.gif" />
+<img align="right" width=280px alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I3NWlydzN0cW1rYnp2NXY3c252M2p5cDMyOG9yc2JoemkzaG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GxcptIyuOwo1CjnIl1/giphy.gif" />
 
 - 😁 Me apasiona profundamente cerrar la brecha entre la programación y el mundo físico.
-- 🌐 **Conoce mi trabajo:** Puedes explorar mis desarrollos y demos en mi **[Portafolio Web](https://roberto-vargas-portafolio.vercel.app/)**.
 - ☀️ **Proyecto Destacado:** Creador de **[Girasol](https://solar-monitor.vercel.app/)**, un seguidor solar inteligente. Integra programación de hardware (ESP32, sensores I2C) con telemetría asíncrona vía MQTT hacia un dashboard/interfaz de monitoreo interactivo, demostrando mi capacidad como desarrollador integral.
 - 🌱 **Aprendizaje continuo:** Actualmente me encuentro ampliando mi stack para optimizar despliegues y escalar arquitecturas corporativas, aprendiendo:
   - Nest.js
   - Docker
 - Fuera del mundo tech, disfruto de una buena conversación 🗣, hacer ejercicio 🏃🏻‍♂️, jugar videojuegos 🕹.
 - 💬 **Hablemos sobre:** Cómo llevar tu infraestructura tecnológica al siguiente nivel.
-
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Stack Tecnológico</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills & Stack Tecnológico</b>
 
 <h3> 📚 Lenguajes </h3>
 <span> 
@@ -83,13 +81,4 @@
   <img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
 </span>
 
-<br><br>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertovargasdev&show_icons=true&theme=tokyonight" alt="Roberto's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertovargasdev&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</div>
+<br>
