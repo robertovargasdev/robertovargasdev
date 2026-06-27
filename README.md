@@ -9,7 +9,7 @@
   <a href="https://roberto-vargas-portafolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/roberto-vargas-684578215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,7 +19,7 @@
 
 <h2> 👨‍💻 Sobre mí </h2>
 
-<img align="right" width=280px alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I3NWlydzN0cW1rYnp2NXY3c252M2p5cDMyOG9yc2JoemkzaG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GxcptIyuOwo1CjnIl1/giphy.gif" />
+<img align="right" width=280px hspace="20" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I3NWlydzN0cW1rYnp2NXY3c252M2p5cDMyOG9yc2JoemkzaG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GxcptIyuOwo1CjnIl1/giphy.gif" />
 
 - 😁 Me apasiona profundamente cerrar la brecha entre la programación y el mundo físico, diseñando la lógica estructural de los sistemas.
 - 🌱 **Aprendizaje continuo:** Actualmente me encuentro ampliando mi stack para optimizar despliegues y escalar arquitecturas corporativas, aprendiendo:
@@ -28,7 +28,7 @@
 - ⚡ Fuera del mundo tech, disfruto de una buena conversación 🗣, hacer ejercicio 🏃🏻‍♂️ y jugar videojuegos 🕹.
 - 💬 **Hablemos sobre:** Cómo llevar tu infraestructura tecnológica al siguiente nivel.
 
-<br>
+<br clear="both"/>
 
 ---
 
@@ -41,13 +41,13 @@ Maximiza la eficiencia en la captación de energía solar automatizando el posic
 
 **Arquitectura Integral (Del Hardware a la Web):**  
 Este proyecto demuestra mi capacidad como un profesional integral para diseñar sistemas IoT robustos y orquestar el flujo completo de datos:
-- 🔌 **Capa Física:** Programación en C++ de microcontrolador ESP32 e integración de sensores I2C (QMC5883L, MPU6050) para implementar un Sistema de Referencia de Actitud y Rumbo (AHRS) mediante filtro Mahony para ubicar el panel solar en el espacio (Azimut, Inclinación).
-- ⚙️ **Capa de Comunicación:** Implementación de telemetría asíncrona y estructuración de *payloads* utilizando el protocolo industrial **MQTT**.
-- 🖥️ **Capa de Visualización:** Desarrollo de un panel de control (Dashboard) para la monitorización de datos y analíticas en tiempo real.
+  - 🔌 **Capa Física:** Programación en C++ de microcontrolador ESP32 e integración de sensores I2C (QMC5883L, MPU6050) para implementar un Sistema de Referencia de Actitud y Rumbo (AHRS) mediante filtro Mahony para ubicar el panel solar en el espacio (Azimut, Inclinación).
+  - ⚙️ **Capa de Comunicación:** Implementación de telemetría asíncrona y estructuración de *payloads* utilizando el protocolo industrial **MQTT**.
+  - 🖥️ **Capa de Visualización:** Desarrollo de un panel de control (Dashboard) para la monitorización de datos y analíticas en tiempo real.
 
 <p align="left">
   <a href="https://solar-monitor.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Dashboard_Interactivo-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo de Girasol" />
+    <img src="https://img.shields.io/badge/Ver_Dashboard_Interactivo-F59E0B?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="Demo de Girasol" />
   </a>
 </p>
 
