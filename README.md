@@ -21,11 +21,13 @@
 
 <img align="right" width=280px hspace="20" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I3NWlydzN0cW1rYnp2NXY3c252M2p5cDMyOG9yc2JoemkzaG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GxcptIyuOwo1CjnIl1/giphy.gif" />
 
-- 😁 Me apasiona profundamente cerrar la brecha entre la programación y el mundo físico, diseñando la lógica estructural de los sistemas.
-- 🌱 **Aprendizaje continuo:** Actualmente me encuentro ampliando mi stack para optimizar despliegues y escalar arquitecturas corporativas, aprendiendo:
-  - Nest.js
-  - Docker
-- ⚡ Fuera del mundo tech, disfruto de una buena conversación 🗣, hacer ejercicio 🏃🏻‍♂️ y jugar videojuegos 🕹.
+- 🤓 Me gusta diseñar la lógica estructural de los sistemas.
+- 😁 Me apasiona profundamente cerrar la brecha entre la programación y el mundo físico.
+- 🌱 **Aprendizaje continuo:** Constantemente consolido y actualizo mis conocimientos de Backend. Además, actualmente me encuentro explorando:
+  - Despliegue y contenedores con **Docker**.
+  - **Análisis de Datos** e inteligencia de negocios.
+  - Integración de IA utilizando **FastAPI**.
+- ⚡ Fuera del mundo tech, disfruto de una buena conversación, hacer ejercicio y jugar videojuegos.
 - 💬 **Hablemos sobre:** Cómo llevar tu infraestructura tecnológica al siguiente nivel.
 
 <br clear="both"/>
@@ -37,7 +39,7 @@
 <img align="left" width="250" hspace="20" alt="Girasol" src="https://github.com/user-attachments/assets/6077ab4b-6068-4911-997d-830a58c1b9ae" />
 
 **¿Qué problema resuelve?**  
-Maximiza la eficiencia en la captación de energía solar automatizando el posicionamiento de los paneles mediante una estructura mecánica de doble eje. El sistema calcula y sigue la trayectoria óptima del sol a lo largo del día. Además, registra la curva de generación fotovoltaica junto con otras variables ambientales y las muestra en un dashboard web.
+Maximiza la eficiencia en la captación de energía solar automatizando el posicionamiento de los paneles mediante una estructura mecánica de doble eje. El sistema calcula y sigue la trayectoria óptima del sol a lo largo del día. Además, registra la curva de generación fotovoltaica junto con otras variables ambientales y las presenta en un dashboard web.
 
 **Arquitectura Integral (Del Hardware a la Web):**  
 Este proyecto demuestra mi capacidad como un profesional integral para diseñar sistemas IoT robustos y orquestar el flujo completo de datos:
@@ -57,21 +59,23 @@ Este proyecto demuestra mi capacidad como un profesional integral para diseñar 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills & Stack Tecnológico</b>
 
-<h3> 📚 Lenguajes Base </h3>
+<h3> 📚 Lenguajes </h3>
 <span> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&color=purple">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </span>
 
 <h3> ⚙️ Backend & APIs </h3>
 <span> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
 </span>
@@ -82,6 +86,14 @@ Este proyecto demuestra mi capacidad como un profesional integral para diseñar 
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</span>
+
+<h3> 📊 Análisis de Datos </h3>
+<span>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 </span>
 
 <h3> 🔌 IoT & Sistemas Embebidos </h3>
@@ -95,11 +107,13 @@ Este proyecto demuestra mi capacidad como un profesional integral para diseñar 
 <h3> 🖥️ Frontend </h3>
 <span> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
 </span>
 
 <h3> 🛠️ Herramientas </h3>
@@ -108,8 +122,6 @@ Este proyecto demuestra mi capacidad como un profesional integral para diseñar 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/-Swagger-%23C5FA29?style=for-the-badge&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
 </span>
 
 <br>
